@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <group title="Addictions">
+    <opt>I feel better when I don't smoke</opt>
+    <opt>When I smoke, I feel nauseous</opt>
+    <opt>I feel unclean when I smoke</opt>
+    <opt>Smoking smells foul</opt>
+    <opt>I hate the taste of smoking</opt>
+  </group>
+  
+  <group title="Health">
+    <opt>I am slim</opt>
+    <opt>Eating fruit and vegetables feels good</opt>
+    <opt>I dislike unhealthy foods</opt>
+    <opt>I only eat when I am hungry</opt>
+    <opt>I stop eating when I am full</opt>
+    <opt>I eat slowly to enjoy the experience</opt>
+    <opt>I drink plenty of water</opt>
+    <opt>I exercise regulary</opt>
+    <opt>I get enough sleep</opt>
+    <opt>I am always well</opt>
+  </group>
+  
+  <group title="Love">
+    <opt>I love my partner</opt>
+    <opt>I trust my partner</opt>
+    <opt>I listen to my partner</opt>
+    <opt>I think about my partner</opt>
+    <opt>I fantasize about my partner</opt>
+    <opt>I do things that please my partner</opt>
+  </group>
+  
+  <group title="Well Being">
+    <opt>I am full of life</opt>
+    <opt>I love the way I am</opt>
+    <opt>I am making a difference</opt>
+    <opt>I am aware of my surroundings</opt>
+    <opt>I forgive myself for my mistakes</opt>
+    <opt>I forgive others for their mistakes</opt>
+  </group>
+  
+  <group title="Social">
+    <opt>I remember persons' names</opt>
+    <opt>I ask good questions</opt>
+    <opt>I am interested in others' opinions</opt>
+    <opt>I am warm and caring towards others</opt>
+    <opt>I am confident</opt>
+    <opt>I approach people</opt>
+    <opt>I organize events for my friends</opt>
+    <opt>I like to try new things</opt>
+  </group>
+  
+  <group title="Success">
+    <opt>I enjoy being successful</opt>
+    <opt>I make goals</opt>
+    <opt>I am good at what I do</opt>
+    <opt>Competition motivates me</opt>
+    <opt>I complete my tasks well and on time</opt>
+    <opt>I learn things that benefit me</opt>
+    <opt>I am constantly improving myself</opt>
+    <opt>I don't put off things that need doing</opt>
+    <opt>I remain calm when facing adversity</opt>
+    <opt>I focus on solutions, not problems</opt>
+    <opt>I am becoming smarter</opt>
+    <opt>I can easily recall facts and figures</opt>
+  </group>
+</root>
