@@ -29,6 +29,7 @@ Configuration
 Configuring should be straight forward using the provided config window. Closing of the window will quit FST, so you may want to minimise it when not in use. For those who like XML or want to disable the config window from appearing at start up may want to edit FSTConfig.xml directly.
 
 ## Download
+* [FST1.5.jar](releases/FST1.5.jar?raw)
 * [FST1.42.jar](releases/FST1.42.jar?raw)
 * [FST1.41.jar](releases/FST1.41.jar?raw)
 * [FST1.40.jar](releases/FST1.40.jar?raw)
